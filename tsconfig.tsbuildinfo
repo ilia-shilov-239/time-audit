@@ -1,1 +1,1 @@
-{"root":["./src/app.tsx","./src/todolist.test.tsx","./src/todolist.tsx","./src/main.tsx","./src/setuptests.ts","./src/test-utils.tsx","./src/api/todos.ts"],"version":"5.9.3"}
+{"root":["./src/app.tsx","./src/confirmdialog.test.tsx","./src/confirmdialog.tsx","./src/todolist.test.tsx","./src/todolist.tsx","./src/main.tsx","./src/setuptests.ts","./src/test-utils.tsx","./src/api/todos.ts"],"version":"5.9.3"}
